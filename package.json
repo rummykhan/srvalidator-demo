@@ -12,7 +12,7 @@
     "react-markdown": "^2.5.0",
     "react-router-dom": "^4.2.2",
     "react-scripts": "1.0.14",
-    "srvalidator": "file:src/packages/srvalidator"
+    "srvalidator": "^1.*"
   },
   "scripts": {
     "start": "react-scripts start",
